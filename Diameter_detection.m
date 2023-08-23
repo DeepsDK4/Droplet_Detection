@@ -1,5 +1,5 @@
 % Author: Deependra Kumar |IIT Madras
-% Date: 24 June
+% Date: 24 June 2023
 % Objective: Detction of droplet and finds out its diameter and spreadidng
 % over the time.
 % Droplet properties: water with food coloring.
